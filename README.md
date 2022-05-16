@@ -9,7 +9,7 @@
 	<summary> Ejemplo y enunciado </summary>
 
 - Ejemplo:
-	- [link hacia el archivo grafico1.ipynb](https://github.com/nadianoe/nadianoe.github.io/blob/master/taller6to/graficos1.ipynb)
+	- [link hacia el archivo grafico1.ipynb](https://github.com/nadianoe/nadianoe.github.io/blob/main/graficos1.ipynb)
 	
 - Enunciado:
 	
