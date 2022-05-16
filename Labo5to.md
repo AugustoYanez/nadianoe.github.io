@@ -1,5 +1,5 @@
 ---
-### Laboratorio de Programación Orientada a Objetos
+### Laboratorio de Programación Orientada a Objetos - Enunciados 
 ---
 
 #### [Libro que utilizaremos en la materia](https://github.com/nadianoe/nadianoe.github.io/blob/master/labo/Luis%20Joyanes%20Aguilar_%20Ignacio%20Zahonero%20Mart%C3%ADnez%20-%20Programaci%C3%B3n%20en%20Java%20_%20algoritmos%2C%20programaci%C3%B3n%20orientada%20a%20objetos%20e%20interfaz%20gr%C3%A1fica%20de%20usuario-McGraw-Hill%20(2011)%20(1).pdf)
@@ -65,7 +65,7 @@ los clientes de un banco. Para ello, deberán:
 </details>
 
 <details>
-	<summary> Ejemplo y ejercicio </summary>
+	<summary> Ejercicio </summary>
 	
 - Crear una clase llamada Area (en inglés, sin tilde), esta clase deberá tener definidos
 cinco métodos que sirvan para poder calcular el área de las siguientes
