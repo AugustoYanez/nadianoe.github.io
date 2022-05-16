@@ -6,19 +6,6 @@
 
 ----
 
-#### Nuevo formato de entrega de ejercicios y trabajo en clase
-
-- Se permitirá, por computadora, de uno a dos alumnos.
-- Con respecto a los ejercicios realizados desde el 4 de mayo (inclusive), la entrega de los trabajos se
-deberán realizar mediante la plataforma teams en la clase siguiente. Respetando las siguientes especificaciones:
-
-	- Cada hoja deberá estar acompañado de fecha, nombre y apellido del autor.
-	- Cada ejercicio deberá estar numerado correctamente.
-	- Cada alumno deberá tener su propia versión del trabajo. Salvo aquellos métodos
-	simples como "getters", "setters" y constructores.
-
-- Si se trabaja con un compañero, se deberá aclarar en qué métodos ha colaborado y
-presentar una solución alternativa a la propuesta.
 
 -----
 
