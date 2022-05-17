@@ -8,6 +8,50 @@
 
 ----
 
+#### 17 de Mayo
+
+<details>
+	<summary> Enunciado </summary>
+	
+1. Realizar una función que muestre el siguiente menú y realice las siguientes operaciones:
+```
+1. Suma
+2. Resta
+3. Multiplicación
+4. División
+5. Salir
+```
+	
+2. Realizar una función que reciba dos valores: horas y minutos y
+muestre por pantalla cuánto tiempo falta para las 12:05 hs.
+	
+3. Realizar una función que reciba como argumento dos números y
+retorne su suma.
+	
+4. Realizar una función que reciba como argumento dos números y
+una operación matemática (+, -, *, /) y retorne el resultado de la
+operación.
+	
+5. Realizar una función que muestre el menú que desarrollamos
+antes (utilizando la misma función), pida dos números al usuario y
+una opción del menú y muestre en pantalla el resultado (utilizar la
+función del ejercicio anterior).
+	
+6. Realizar una función que reciba una variable numérica. La función
+debe pedir al usuario un número y almacenarlo en la variable.
+	
+7. Realizar una función que reciba una cadena de texto y un
+carácter. La función debe añadir al final de la cadena el carácter
+enviado.
+	
+8. Realizar una función que reciba un número real y un operador
+aritmético (+, -). En el caso de recibir ‘+’ la función debe sumarle
+uno al número y en el caso de recibir ‘-’ debe restarle uno.
+	
+</details>
+
+-----
+
 #### 10 de Mayo
 
 <details>
