@@ -12,7 +12,8 @@
 import pandas as pd
 import matplotlib.pyplot as plt1
 import numpy as np
-	
+
+valor = np.nan #NaN
 
 df1 = pd.read_csv("../data/vacunasCovid19.csv")
 df1 = df1.loc[0:10]
@@ -109,7 +110,6 @@ Edad,Altura,Peso,Promedio,Sexo,LU,Observación
 ```
 - El archivo .ipynb a entregar deberá contener todas las funciones que fueron necesarias realizar para lograr que 
 el set de datos tenga un resultado final como el propuesto.
-- Recordar que para realizar esta tarea deberán tener en cuenta lo visto la clase correspondiente al 1 de Julio.
 	
 </details>
 	
