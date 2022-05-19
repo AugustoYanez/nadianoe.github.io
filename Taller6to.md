@@ -124,12 +124,12 @@ el set de datos tenga un resultado final como el propuesto.
 
 - Buscar y descargar un nuevo dataset .csv que tenga, al menos, 500 líneas.
 - Formular al menos 5 preguntas que podrían ser respondidas con la información 
-del dataset elegido.
+del data-set elegido.
 - Responder las preguntas formuladas.
 
 - Comentario: deberán crear los gráficos que considere necesarios para responder
 las preguntas propuestas. 
-El propósito es generar una serie de argumentos basados en los datos.
+El propósito es generar una serie de argumentos basados en la información que provee el data-set.
 - Crear un breve informe donde se enumeren las preguntas propuestas y
 las respuestas obtenidas.
 	
