@@ -25,28 +25,21 @@
 2. Realizar una función que reciba dos valores: horas y minutos y
 muestre por pantalla cuánto tiempo falta para las 12:05 hs.
 	
-3. Realizar una función que reciba como argumento dos números y
-retorne su suma.
-	
-4. Realizar una función que reciba como argumento dos números y
-una operación matemática (+, -, *, /) y retorne el resultado de la
-operación.
-	
-5. Realizar una función que muestre el menú que desarrollamos
-antes (utilizando la misma función), pida dos números al usuario y
-una opción del menú y muestre en pantalla el resultado (utilizar la
-función del ejercicio anterior).
-	
-6. Realizar una función que reciba una variable numérica. La función
-debe pedir al usuario un número y almacenarlo en la variable.
-	
-7. Realizar una función que reciba una cadena de texto y un
+3. Realizar una función que reciba como argumento dos números. Uno de los números
+   representará la base de una potencia; el otro, representará el exponente de una
+   potencia. La función deberá retornar el valor de la potencia correspondiente.
+   Utilizar un ciclo para las repetitivas multiplicaciones.
+
+4. Realizar una función que reciba una cadena de texto y un
 carácter. La función debe añadir al final de la cadena el carácter
 enviado.
 	
-8. Realizar una función que reciba un número real y un operador
-aritmético (+, -). En el caso de recibir ‘+’ la función debe sumarle
-uno al número y en el caso de recibir ‘-’ debe restarle uno.
+5. Realizar una función que reciba 3 números y luego retorne el número màs grande
+   recibido.
+   
+6. Realizar un programa que reciba dos números correspondientes a la cantidad
+   de filas y de columnas de una matriz, luego se deberá imprimir por consola
+   una matriz de símbolos '@' teniendo en cuanta las dimensiones indicadas.
 	
 </details>
 
