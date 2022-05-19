@@ -3,6 +3,116 @@
 ###  Taller de Tecnologías de Soporte Informático - 6to
 ----
 
+#### 18 de Mayo
+
+<details>
+	<summary> Ejemplo </summary>
+	
+```python
+import pandas as pd
+import matplotlib.pyplot as plt1
+import numpy as np
+	
+
+df1 = pd.read_csv("../data/vacunasCovid19.csv")
+df1 = df1.loc[0:10]
+x_values = df1['grupo_etario'].unique()
+y_values = df1['grupo_etario'].value_counts().tolist()
+y_values.reverse()
+plt1.figure(figsize=(8,6))
+plt1.barh(x_posiciones, y_values)
+plt1.xticks(x_posiciones, x_values)
+plt1.xticks(rotation=90,fontsize=10)
+	
+#####################################################################
+	
+def convertir_en_minusculas(valor):
+  if type(valor) == str:
+    return valor.lower()
+  else:
+    return valor
+
+# ejemplo 2
+def arreglar_fecha(valor): 
+  valor = str(valor)
+  for caracter in valor:
+    if not caracter.isnumeric() and caracter != "/"
+      valor = valor.replace(caracter,'/')
+  return valor
+
+# applymap, realiza la modificación en todos los elementos del dataframe
+df2 = df1.applymap(convertir_en_minusculas)
+
+# apply, realiza la modificación sólo en los elementos de una columna
+df3 = df1['nombre_de_columna'].apply(convertir_en_minusculas)
+
+df4['Precio'] = df1['Precio'].apply(float)
+
+
+columna_precio = df4['Precio']
+
+for indice, valor in columna_precio.items():
+    print("indice: ",indice)
+    print("valor: ",valor)
+	
+```
+<details>
+	<summary> Enunciado </summary>	
+
+
+- Limpiar el siguiente set de datos:
+```
+Edad, Altura, Peso, Promedio, Sexo, LU, Observación 
+25, 1.80, 83, 7.79, H, 125/89, ninguna
+21, 1.89m, 86, 9.7, H, 35 88, ninguna
+39, 1.54, 50, 7.1, M, 142-80, hipertension
+49, 1.66, 70, 6.54, Mujer, 553/83, ninguna
+31, 1.70, 81, 7.21, H, 495-83, hiper tension
+33, 1.74, 93 kg, 7.1, Hom, 25/78, sobrepeso
+29, 1.81, 82.5, 6.9, H, 445//81, ninguna
+19, 1.82, 86.3, 8.43, H, 5/84, NINGUNA
+20, 1.76, 75, 10, M, 1/81, gripe
+65,, 70, 4.21, M, 1455-89, no hay
+32, 1.64, 60, 9.10, M, 400-80, ninguna
+59, 1.70, 67, 8.99, men, 100/89, ninguna
+34, 1.81, 97, 7.46, H, 1/89,  
+49, 1.78, 432, 7.41, Hombre, 500\86, dolor cabeza
+51, 1.77, 75, 9.10, H, 25/85, hipertenso
+52, 1.65, 64, nan, M, 22\84, ninguna
+40, 1.69, 70, 6.00,m, 35/89, ninguna
+41, 1.80, 8, 9.2, H, 099/89, no hay obs
+25, nan, 72, 6.29, M, 90.80, nada
+28, 1.68, 68, 7.54, M, 145/81, ninguna
+29, 1.81, 83, nan, H, 111/83, NINGUNA
+```
+- El resultado final deberá ser igual a la siguiente versión:
+```
+Edad,Altura,Peso,Promedio,Sexo,LU,Observación 
+0,25,1.80,83,7.79,h,125/89,ninguna
+1,21,1.89,86,9.7,h,35/88,ninguna
+2,39,1.54,50,7.1,m,142/80,hipertension
+3,49,1.66,70,6.54,m,553/83,ninguna
+4,31,1.70,81,7.21,h,495/83,hipertension
+5,33,1.74,93,7.1,h,25/78,ninguna
+6,29,1.81,82.5,6.9,h,445/81,ninguna
+7,19,1.82,86.3,8.43,h,5/84,ninguna
+8,20,1.76,75,10.0,m,1/81,ninguna
+10,32,1.64,60,9.1,m,400/80,ninguna
+11,59,1.70,67,8.99,m,100/89,ninguna
+12,34,1.81,97,7.46,h,1/89,ninguna
+13,49,1.78,432,7.41,h,500/86,dolor de cabeza
+14,51,1.77,75,9.1,h,25/85,hipertension
+17,41,1.80,8,9.2,h,099/89,ninguna
+19,28,1.68,68,7.54,m,145/81,ninguna	
+```
+- El archivo .ipynb a entregar deberá contener todas las funciones que fueron necesarias realizar para lograr que 
+el set de datos tenga un resultado final como el propuesto.
+- Recordar que para realizar esta tarea deberán tener en cuenta lo visto la clase correspondiente al 1 de Julio.
+	
+</details>
+	
+------
+	
 #### 5 de Mayo
 
 <details>
