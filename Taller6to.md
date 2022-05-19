@@ -120,9 +120,7 @@ el set de datos tenga un resultado final como el propuesto.
 #### 19 de Mayo
 
 <details> 
-	<summary> Ejemplo </summary>
-
-## Ejercicio integrador:
+	<summary> Ejercicio </summary>
 
 - Buscar y descargar un nuevo dataset .csv que tenga, al menos, 500 líneas.
 - Formular al menos 5 preguntas que podrían ser respondidas con la información 
