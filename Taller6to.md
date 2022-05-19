@@ -3,7 +3,8 @@
 ###  Taller de Tecnologías de Soporte Informático - 6to
 ----
 
-#### 19 de Mayo
+
+#### 9 de Junio
 
 <details>
 	<summary> Ejemplo </summary>
@@ -114,6 +115,28 @@ el set de datos tenga un resultado final como el propuesto.
 	
 </details>
 	
+------
+
+#### 19 de Mayo
+
+<details> 
+	<summary> Ejemplo </summary>
+
+## Ejercicio integrador:
+
+- Buscar y descargar un nuevo dataset .csv que tenga, al menos, 500 líneas.
+- Formular al menos 5 preguntas que podrían ser respondidas con la información 
+del dataset elegido.
+- Responder las preguntas formuladas.
+
+- Comentario: deberán crear los gráficos que considere necesarios para responder
+las preguntas propuestas. 
+El propósito es generar una serie de argumentos basados en los datos.
+- Crear un breve informe donde se enumeren las preguntas propuestas y
+las respuestas obtenidas.
+	
+</details>
+
 ------
 	
 #### 5 de Mayo
