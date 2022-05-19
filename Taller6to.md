@@ -3,7 +3,7 @@
 ###  Taller de Tecnologías de Soporte Informático - 6to
 ----
 
-#### 18 de Mayo
+#### 19 de Mayo
 
 <details>
 	<summary> Ejemplo </summary>
@@ -14,9 +14,10 @@ import matplotlib.pyplot as plt1
 import numpy as np
 
 valor = np.nan #NaN
-
+	
 df1 = pd.read_csv("../data/vacunasCovid19.csv")
-df1 = df1.loc[0:10]
+df1 = df1.dropna()
+	
 x_values = df1['grupo_etario'].unique()
 y_values = df1['grupo_etario'].value_counts().tolist()
 y_values.reverse()
