@@ -56,6 +56,8 @@ for indice, valor in columna_precio.items():
     print("valor: ",valor)
 	
 ```
+</details>
+
 <details>
 	<summary> Enunciado </summary>	
 
