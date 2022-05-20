@@ -10,9 +10,9 @@
 1. Buscar 3 data-sets a elección. Los tres data-sets deberán estar
 relacionados en temática y deberán conformar una base de datos.
 2. Crear una base de datos con datos con nombre declarativo.
-3. Transformar el data-set a inserciones SQL utilizando
+3. Aplicar las 3 formas normales y realizar el diagrama entidad-relación de que represente la base de datos creada.
+4. Transformar el data-set a inserciones SQL utilizando
 herramientas online.
-4. Aplicar las 3 formas normales y realizar el diagrama entidad-relación de que represente la base de datos creada.
 5. Proponer, escribir el enunciado y resolver 50 consultas que se puedan
 realizar sobre la base de datos creada. Las consultas deberán
 utilizar todos los temas vistos y presentar combinaciones.
@@ -30,8 +30,5 @@ y todos los tipos de parámetros (in, inout, out) combinados entre sí.
     y el código c++ (en caso de haber requerido utilizar) deberán ser entregados
     comprimidos por Teams.
   - Cada integrante deberá escribir 25 de las propuestas presentadas en los puntos 5 y 6
-
-
-
 
 </details>
