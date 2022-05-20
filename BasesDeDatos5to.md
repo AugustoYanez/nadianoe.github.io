@@ -133,7 +133,7 @@ utilizando la función propuesta.
 <details>
 	<summary> DER para resolver el ejercicio </summary>
 	
-- [DER](https://github.com/nadianoe/nadianoe.github.io/blob/master/bd5to2022/classicmodels.pdf)
+- [DER](https://github.com/nadianoe/nadianoe.github.io/blob/main/classicmodels.pdf)
 	
 </details>
 
