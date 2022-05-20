@@ -20,11 +20,15 @@ utilizar todos los temas vistos y presentar combinaciones.
 deberán utilizar estructuras condicionales, estructuras repetitivas
 y todos los tipos de parámetros (in, inout, out) combinados entre sí.
 
+- Comentario 
+    - Deberán probar todas las consultas y stored procedures propuestos.
 
 - Formato de entrega
-- Deberá ser entregado de forma escrita a mano
+- El diagrama entidad relación y las respuestas de los puntos 5 y 6 deberán
+  ser entregados de forma escrita a mano. Los archivos .csv, el script .sql,
+  y el código c++ (en caso de haber requerido utilizar) deberán ser entregados
+  comprimidos por Teams.
 - Cada integrante deberá escribir 25 de las propuestas presentadas en los puntos 5 y 6
-
 
 
 
