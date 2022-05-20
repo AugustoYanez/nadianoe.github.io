@@ -8,6 +8,32 @@
 
 ----
 
+#### 19 de Mayo
+
+<details>
+	<summary> Enunciado </summary>
+	
+1. Crear una función que reciba como parámetro un número y luego lo
+   imprima 50 veces.
+	
+2. Crear una función que reciba como parámetro dos números y luego retorne
+   el resultado de la siguiente operación:
+```
+	(( x^2 + x^3) / 3) + y^4 
+```
+3. Crear una función que reciba como parámetro un número mayor a cero y luego
+   retornee la cantidad de múltiplos de 3 que existen desde el número -1000
+   hasta el número ingresado.
+4. Crear una función que reciba como parámetro un carácter (variable de tipo char) 
+   y luego indique si el char recibido es vocal o no lo es. Para realizar esto,
+   deberá retornar una variable de tipo bool.
+5. Crear una función que reciba una palabra y luego retorne la cantidad de vocales que 
+   contiene la palabra recibida.
+	
+</details>
+
+-------
+
 #### 17 de Mayo
 
 <details>
