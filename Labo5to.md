@@ -6,7 +6,36 @@
 
 ----
 
+#### 24 de Mayo
 
+<details> 
+	<summary> Ejercicio </summary>
+	
+- Realizar un sistema que controle la asistencia de un empleado a su trabajo. 
+
+El sistema será utilizado por una empresa con un nombre.
+La empresa que lo utilizará cuenta con muchos empleados.
+De cada empleado se conoce sus nombre, apellido, teléfono,
+fecha de nacimiento, los nombres de sus días laborables, 
+el horario laboral (hora de ingreso y egreso) y
+los ingresos que realiza cada día (fecha y hora).
+
+Se espera que el sistema permita obtener la siguiente 
+información:
+
+- el porcentaje de asistencia de un empleado
+  en un determinado mes.
+- la cantidad de empleados actuales
+- el nombre, apellido y teléfono del empleado con una
+asistencia del 100%
+- el listado de nombres, apellidos y teléfonos de aquellos
+empleados que tienen una asistencia menor al 50%
+- el listado de nombres, apellidos y teléfonos de aquellos
+empleados que llegan al menos 5 minutos tarde.
+- la cantidad de empleados que deben trabajar por día
+- la información el ítem anterior con forma de tabla
+
+</details>
 -----
 
 
