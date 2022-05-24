@@ -8,6 +8,34 @@
 
 ----
 
+#### 24 de Mayo
+
+<details> 
+	<summary> Ejercicios </summary>
+
+1. Crear una función que reciba como partámetros un char y un numero entero que representa una cantidad de líneas
+   y deberá imprimir lo siguiente:
+```
+1. $
+2. $$
+3. $$$
+...
+```
+2. Crear una funciòn que reciba un string y retorne un nuevo string compuesto por aquellos caracteres que
+   tienen asociado un índice par.
+3. Crear una funciòn que reciba un string y retorne un nuevo string compuesto por aquellos caracteres que
+   tienen asociado un índice impar.
+4. Crear una función que reciba un string y luego imprima cada tipo de letra que lo compone con su respectiva
+   cantidad. Ejemplo: si se ingresa la palabra "ala", se imprimirá:
+  ```
+  cantidad de letra a: 2
+  cantidad de letra l: 1
+ ```	
+	
+</details>
+
+------
+
 #### 19 de Mayo
 
 <details>
