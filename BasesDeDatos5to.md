@@ -12,6 +12,12 @@
 
 ----
 
+#### 27 de Mayo
+
+- [enunciado parte 1](https://github.com/nadianoe/nadianoe.github.io/blob/main/examen27deMayoBD.pdf)
+
+------
+
 #### 20 de Mayo
 
 <details>
