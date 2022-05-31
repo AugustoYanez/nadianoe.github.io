@@ -8,6 +8,18 @@
 
 ----
 
+#### 26 de Mayo
+
+<details>
+	<summary> Ejercicios </summary>
+	
+1. Crear uyna función que reciba como parámetro un nombre de archivo, una extensión y
+luego retorne un string que contenga el contenido del archivo indicado.
+	
+</details>
+
+-----
+
 #### 24 de Mayo
 
 <details> 
