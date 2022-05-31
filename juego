@@ -1,0 +1,70 @@
+#include <iostream>
+#include <fstream>
+using namespace std;
+int main() {
+
+    cout << " Bienvenido a este juego de los penales, a continuacion le mostrare las reglas" << endl;
+    cout << " Presione un caracter para continuar. " << endl;
+    int car;
+    cin >> car;
+    if (car != car) {
+        cout << "no podes seguir" << endl;
+    } else
+        cout << "Perfecto bro, pasaste las pruebas. Ahora si, como jugar:" << endl;
+    cout << " Esto es un juego de penales." << endl;
+    cout << " Vos vas a tener 5 tiros. El arco tiene 9 espacios." << endl;
+    cout << " Vas a tener que elegir un lugar de esos 9 espacios," << endl;
+    cout
+            << "Si el arquero adivina el mismo numero que vos, te lo ataja. Y tambien si tiras del 9 para arriba, lo erras."
+            << endl;
+    cout << " Ahora si, a saltar a la cancha." << endl;
+    cout << endl;
+    cout << " Presione un caracter para continuar. " << endl;
+int car1;
+cin >> car1;
+if (car1 == car1) {
+    cout << "hola"" << endl;
+}
+
+}
+        cout << " Elegi tu equipo para ganar este partido. " << endl;
+    cout << endl;
+    cout << "1- Real Madrid " << endl;
+    cout << "2- Liverpool FC " << endl;
+    cout << "3- Barcelona " << endl;
+    cout << "4- PSG " << endl;
+    cout << "5- Manchester City" << endl;
+    cout << "6- Juventus" << endl;
+    cout << "7- Manchester United" << endl;
+    cout << "8- Burnley" << endl;
+
+    int resp1;
+    cin >> resp1;
+
+
+         if (resp1 == 1) {
+            cout << " Elegiste al: Real Madrid " << endl;
+        }
+         if (resp1 == 2) {
+            cout << " Elegiste al: Liverpool FC " << endl;
+        }
+         if (resp1 == 3) {
+            cout << " Elegiste al: Barcelona " << endl;
+        }
+         if (resp1 == 4) {
+            cout << " Elegiste al: PSG " << endl;
+        }
+         if (resp1 == 5) {
+            cout << " Elegiste al: Manchester City" << endl;
+        }
+         if (resp1 == 6) {
+            cout << " Elegiste al: Juventus" << endl;
+        }
+         if (resp1 == 7) {
+            cout << " Elegiste al: Manchester United" << endl;
+        }
+         if (resp1 == 8) {
+            cout << " Elegiste al: Burnley" << endl;
+        }
+    }
+
