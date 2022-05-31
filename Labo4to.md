@@ -9,6 +9,10 @@
 ----
 
 #### 31 de Mayo
+
+- Trabajo práctico. Dos integrantes.
+- [enunciado TP de dos integrantes](https://github.com/nadianoe/nadianoe.github.io/blob/main/Trabajo%20Pr%C3%A1ctico%20N%C2%B01.pdf)
+
 ```c++
 #include <stdlib.h>
 #include <iostream>
