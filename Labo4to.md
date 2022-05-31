@@ -8,6 +8,29 @@
 
 ----
 
+#### 31 de Mayo
+```c++
+#include <stdlib.h>
+#include <iostream>
+
+using namespace std;
+
+int generarValorAleatorio(int desde,int hasta){
+    int numero;
+    srand (time(NULL));
+    numero = rand() % hasta + desde;
+    return numero;
+}
+
+int main(){
+     cout << generarValorAleatorio(1,10);
+
+    return 0;
+}
+```
+
+-----
+
 #### 26 de Mayo
 
 <details>
