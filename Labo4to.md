@@ -10,7 +10,9 @@
 
 #### 31 de Mayo
 
-- Trabajo práctico. Dos integrantes.
+- Trabajo práctico: 
+	- Dos integrantes
+	- Recordar que al programar, es recomendable distribuir las tareas que se realizan en funciones.
 - [enunciado TP](https://github.com/nadianoe/nadianoe.github.io/blob/main/Trabajo%20Pr%C3%A1ctico%20N%C2%B01.pdf)
 
 ```c++
